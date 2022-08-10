@@ -13,14 +13,13 @@ enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://git.sr.ht/~arcade/quartz
 enableSemanticSearch: true
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+operandApiKey: "4953bc40-2179-488f-b4c5-d96579347787"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My digital brain
 page_title:
   "🪴 Quartz 3.2"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Mastodon
+    link: https://catcatnya.com/arcade
+  - link_name: Git
+    link: https://sr.ht/~arcade
